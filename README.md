@@ -8,7 +8,15 @@ The project introduces the basics of flutter:
 - Gesture Detector
 
 ## Make it Rain App
+It introduces :
+- Stateless/Stateful Widgets
+- The state management 
 
 ## Weigth on planet App
+- Control input data
 
 ## Login App
+A simple Login App
+
+## Quake App
+Fetch Earthquake data from an API and display it as a listview
